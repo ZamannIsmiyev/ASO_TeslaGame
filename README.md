@@ -9,14 +9,14 @@
     <img src="img/tesla.png" alt="Logo" width="500" height="320">
   </a>
 
-  <h2 align="center"><a href="https://t.me/husnuehedov">🔍 TeslaGame Proje Sahibi: Hüsnü Ehedov</a></h2>
+  <h2 align="center"><a href="https://t.me/ismiyev95">🔍 TeslaGame Proje Sahibi: Tigr</a></h2>
 
   <p align="center">
     <b>Merhaba, TeslaGameV1 Projesi ile Karşınızdayız. Bot 1 Yıldan Fazladır Telegram da Aktif Olarak<br/>Kullanıcılara Oyun Konusun da kolaylık Sağlıyor
-Şuan Kullanılan <a href="https://t.me/ASOTeslaBot" >@ASOteslabot</a>'un <br/>
+Şuan Kullanılan <a href="https://t.me/TeslaGameBot" >@TeslaGameBot</a>'un <br/>
 Eski Alt Versiyon Projesi GitHub'da Kullanıcılara Açık Sunuldu.</b>
 <br/><br/>
-<strong><a href="https://telegra.ph/ASOTeslaBot-Türkçe-Oyun-Rehberi-05-29">Dökümanı Okuyun</a></strong>
+<strong><a href="https://telegra.ph/TeslaGame-Türkçe-Oyun-Rehberi-05-29">Dökümanı Okuyun</a></strong>
     ·
     <strong><a href="https://t.me/ismiyev95">Hata Bildir</a></strong>
    </p>
@@ -24,7 +24,7 @@ Eski Alt Versiyon Projesi GitHub'da Kullanıcılara Açık Sunuldu.</b>
 
 ### 🔹 Kolay Heroku Kurulum
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Zamannismiyev/ASOTeslaGame)  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sirincay/TeslaGameV1)  
  <i>Deploy Sonrası Yapılması Gerekenler:</i><br/>
       <i>web npm start butonu kapatın</i><br/>
      <img src="img/heroku1.jpg" alt="heroku" width="200" height="150"><br/>
@@ -35,7 +35,7 @@ Eski Alt Versiyon Projesi GitHub'da Kullanıcılara Açık Sunuldu.</b>
 
 1. Reponu Klonlayın
    ```sh
-   git clone https://github.com/Zamannismiyev/ASOTeslaGame
+   git clone https://github.com/sirincay/TeslaGameV1
    cd TeslaGameV1
    ```
 2. Telegraf,Environment Paketleri İndirin
@@ -46,9 +46,9 @@ Eski Alt Versiyon Projesi GitHub'da Kullanıcılara Açık Sunuldu.</b>
    ```.env
    TOKEN= Botun Tokeni Yazın @BotFather
    ID_BOT= Botun ID Yazın (İlk Rakamlar)
-   ASOTeslaBot= Botun Kullanıcı Adını '@' Olmadan Yazın
+   BOT_ISMI= Botun Kullanıcı Adını '@' Olmadan Yazın
    RAUND_SAYI= RAUND SAYISI (3-5) İdeal aralık 
-   SANIYE= Resimlerin Değişmesi Süresi / 10000=12 Saniye
+   SANIYE= Resimlerin Değişmesi Süresi / 10000=10 Saniye
    
     ```
 4. Botu Başlatın.
@@ -75,7 +75,7 @@ Tüm hakları saklıdır!
 
 Telegram- [@ismiyev95](https://t.me/ismiyev95)
 
-Project Link: [https://github.com/Zamannismiyev/ASOTeslaGame](https://github.com/Zamannismiyev/ASOTeslaGame)
+Project Link: [https://github.com/sirincay/TeslaGameV1](https://github.com/sirincay/TeslaGameV1)
 
 
 
